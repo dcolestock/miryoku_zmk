@@ -246,7 +246,7 @@ On each hand, only the main alpha block of 3 rows by 5 columns and the 3 most ap
 Notes or diagrams are provided below where the selection of keys is not obvious or where alternatives are provided via mapping configuration options.
 
 
-**** 32/hummingbird
+**** 30/hummingbird
 
 [[#bottom-row-combos][Bottom row combos]] and [[#thumb-combos][thumb combos]] are enabled.
 
@@ -254,6 +254,21 @@ Notes or diagrams are provided below where the selection of keys is not obvious 
 **** 34/ferris
 
 [[#thumb-combos][Thumb combos]] are enabled.
+
+
+**** 38/draculad
+
+
+***** PIM447 Right
+
+~MIRYOKU_MAPPING=PIM447RIGHT~
+
+For use with PIM447 installed in the right secondary thumb key position. The right tertiary thumb key is replaced with the secondary and [[#thumb-combos][thumb combos]] are enabled. Note that the right secondary thumb key is in the opposite position from usual, relative to the primary.
+
+
+**** 41/reviung41
+
+The thumbs keys, from left to right, are as follows: left secondary, left primary, right secondary, right primary, right tertiary. [[#thumb-combos][Thumb combos]] are enabled for the left thumbs. The left thumb keys are also duplicated on the left outer pinkie column, from top to bottom, as follows: primary, tertiary, secondary. Note that the left secondary thumb key is in the opposite position from usual, relative to the primary. For ~MIRYOKU_LAYERS=FLIP~, substitute left and right above.
 
 
 **** 44/technikable
